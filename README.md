@@ -16,7 +16,7 @@ In this task, I created a secure Virtual Private Cloud (VPC) manually through th
 - SSH access to private instance via Bastion Host
 - Security Groups and Key Pair management
 
-📄 You can view the step-by-step documentation with screenshots [here](./task1/AWS_Assignment_Task1_Documentation.pdf).
+📄 You can view the step-by-step documentation with screenshots [here](./task1/https://github.com/ayuu28/aws-assignment/blob/main/task1/Ayushi%20AWS-TASK1(11721210005).pdf).
 
 ---
 
